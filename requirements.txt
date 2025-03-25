@@ -1,11 +1,9 @@
 streamlit
 torch
+torchvision
 ultralytics
-flask
-tensorflow
-opencv-python-headless
+pillow
+opencv-python
 numpy
-requests
-dill
-flask-ngrok
-streamlit-webrtc
+matplotlib
+pytorch-grad-cam

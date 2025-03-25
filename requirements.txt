@@ -1,11 +1,9 @@
---upgrade pip
-uv pip install
 streamlit
 torch
 torchvision
 ultralytics
 pillow
-opencv-python
+opencv-python-headless
 numpy
 matplotlib
-grad-cam
+pytorch-grad-cam

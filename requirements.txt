@@ -1,0 +1,11 @@
+streamlit
+torch
+ultralytics
+flask
+tensorflow
+opencv-python-headless
+numpy
+requests
+dill
+flask-ngrok
+streamlit-webrtc
